@@ -4,6 +4,7 @@ const stylusRandom = require('./stylus-random')
 module.exports = {
   title: 'web-bookmarks',
   description: '前端工程师知识技能储备库',
+  auto2top: true, //切换页面后是否自动跳转到页面顶部。
   base: '/web-bookmarks/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
