@@ -34,6 +34,7 @@ Base on `vuepress`
 - [JavaScript](https://Virkano.github.io/web-bookmarks/base/javascript/)
 - [Color](https://Virkano.github.io/web-bookmarks/base/color/)
 - [正则](https://Virkano.github.io/web-bookmarks/base/regx/)
+- [性能优化指南](https://Virkano.github.io/web-bookmarks/base/preference/)
 
 ### [技术](https://Virkano.github.io/web-bookmarks/tech/)
 ### [文章](https://Virkano.github.io/web-bookmarks/article/)

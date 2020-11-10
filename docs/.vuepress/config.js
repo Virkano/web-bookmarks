@@ -28,7 +28,9 @@ module.exports = {
           { text: 'CSS', link: '/base/css/' },
           { text: 'JavaScript', link: '/base/javascript/' },
           { text: 'Color', link: '/base/color/'},
-          { text: '正则', link: '/base/regx/'}
+          { text: '正则表达式', link: '/base/regx/'},
+          { text: '性能优化', link: '/base/preference/'},
+          { text: '开发的坑or技巧', link: '/base/problems-in-develop/'},
         ]
       },
       {

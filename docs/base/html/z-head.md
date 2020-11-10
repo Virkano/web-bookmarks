@@ -1,7 +1,9 @@
+<!-- # HEAD 介绍
+!!!include(docs/base/html/head/README.md)!!! -->
 
 一份关于任何可以写入到你的文档中 `<head>` 部分的清单
 
-## 最小推荐
+## HEAD 介绍
 
 以下是构成任何 Web 页面（网站/应用程序）的基本要素：
 

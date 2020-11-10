@@ -4,6 +4,8 @@ const sidebarMap = [
   { title: 'JavaScript', dirname: 'base/javascript' },
   { title: 'Color', dirname: 'base/color' },
   { title: '正则表达式', dirname: 'base/regx' },
+  { title: '性能优化', dirname: 'base/preference' },
+  { title: '开发的坑or技巧', dirname: 'base/problems-in-develop' },
   { title: '技术', dirname: 'tech' },
   { title: '文章', dirname: 'article' },
   { title: '工具', dirname: 'tool-site/tool' },
