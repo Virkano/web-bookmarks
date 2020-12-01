@@ -21,6 +21,13 @@ module.exports = {
   themeConfig: {
     logo: '/cute-spear-monster.jpg',
     nav: [
+      {
+        text: '音乐',
+        items: [
+          { text: 'nicemusic', link: 'https://www.virkano.com/nicemusic' },
+          
+        ]
+      },
       { 
         text: '基础',
         items: [

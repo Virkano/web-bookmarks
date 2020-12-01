@@ -1,4 +1,5 @@
 const sidebarMap = [
+  { title: '音乐', dirname: 'music' },
   { title: 'HTML', dirname: 'base/html' },
   { title: 'CSS', dirname: 'base/css'},
   { title: 'JavaScript', dirname: 'base/javascript' },
