@@ -25,7 +25,7 @@ module.exports = {
         text: '音乐',
         items: [
           { text: 'nicemusic', link: 'https://www.virkano.com/nicemusic' },
-          
+          { text: 'neteasemusic', link: 'http://virkano.gitee.io/neteasemusic' },
         ]
       },
       { 
