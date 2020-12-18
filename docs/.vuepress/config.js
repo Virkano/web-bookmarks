@@ -2,8 +2,8 @@ const generate = require('./utils')
 const stylusRandom = require('./stylus-random')
 
 module.exports = {
-  title: 'web-bookmarks',
-  description: '前端工程师知识技能储备库',
+  title: 'Boookmarks',
+  description: '一个前端混子的前端杂记',
   auto2top: true, //切换页面后是否自动跳转到页面顶部。
   base: '/web-bookmarks/',
   head: [
@@ -24,7 +24,7 @@ module.exports = {
       {
         text: '音乐',
         items: [
-          { text: 'nicemusic', link: 'https://www.virkano.com/nicemusic' },
+          { text: 'nicemusic', link: 'https://www.virkano.com/nicemusic/' },
           { text: 'neteasemusic', link: 'http://virkano.gitee.io/neteasemusic' },
         ]
       },
@@ -63,13 +63,7 @@ module.exports = {
         text: '面试',
         link: '/interview/'
       },
-      // {
-      //   text: '其它',
-      //   items: [
-      //     { text: '圈子', link: '/other/gard/' },
-      //     { text: '其它', link: '/other/another/' }
-      //   ]
-      // }
+
     ],
     sidebar: generate(),
     lastUpdated: 'Last Updated', // string | boolean

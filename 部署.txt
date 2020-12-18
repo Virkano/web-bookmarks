@@ -1,0 +1,19 @@
+在github上部署  网址 https://www.virkano.com/web-bookmarks/
+
+
+代码在github上。  
+
+主分支为master   写完代码先上传一份
+
+然后部署在gh-pages分支上。
+
+部署步骤看文件 deploy.sh
+
+
+预览网址  https://www.virkano.com/web-bookmarks/
+
+
+
+npm run docs:dev   启动
+
+npm run docs:build   打包

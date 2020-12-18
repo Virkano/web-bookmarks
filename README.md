@@ -28,21 +28,6 @@ Base on `vuepress`
 
 **如果你有好的推荐，你可以提 issue 或者 pr 来告诉我，谢谢**
 
-### 基础
-- [HTML](https://Virkano.github.io/web-bookmarks/base/html/)
-- [CSS](https://Virkano.github.io/web-bookmarks/base/css/)
-- [JavaScript](https://Virkano.github.io/web-bookmarks/base/javascript/)
-- [Color](https://Virkano.github.io/web-bookmarks/base/color/)
-- [正则](https://Virkano.github.io/web-bookmarks/base/regx/)
-- [性能优化指南](https://Virkano.github.io/web-bookmarks/base/preference/)
-
-### [技术](https://Virkano.github.io/web-bookmarks/tech/)
-### [文章](https://Virkano.github.io/web-bookmarks/article/)
-
-### 工具&网站
-- [工具](https://Virkano.github.io/web-bookmarks/tool-site/tool/)
-- [网站](https://Virkano.github.io/web-bookmarks/tool-site/site/)
-
 ## Development
 
 > Please make sure your version of Node.js is greater than 8.
